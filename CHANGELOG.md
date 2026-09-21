@@ -1,4 +1,15 @@
-﻿# 0.4.0.0 - 2026-09-22
+﻿# 0.4.1.0 - 2026-09-22
+
+## What changed
+
+- Show the same four-part version everywhere the plugin prints one (#14)
+- Stop renaming ACT's own record of where the plugin lives (#15)
+- Reload the plugin in place instead of asking for ACT to be restarted (#16)
+- Release 0.4.1.0 (#17)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.4.0.0 - 2026-09-22
 
 ## What changed
 
@@ -39,6 +50,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
