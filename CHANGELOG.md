@@ -1,4 +1,14 @@
-﻿# 0.4.2.0 - 2026-09-22
+﻿# 0.5.0.0 - 2026-09-22
+
+## What changed
+
+- Write down that the ACT site lags GitHub (#20)
+- Confirm an update happened, twice, so neither half can be missed (#21)
+- Release 0.5.0.0 (#22)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.4.2.0 - 2026-09-22
 
 ## What changed
 
@@ -59,6 +69,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
