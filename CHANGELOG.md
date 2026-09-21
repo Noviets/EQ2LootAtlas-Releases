@@ -1,4 +1,13 @@
-﻿# 0.4.1.0 - 2026-09-22
+﻿# 0.4.2.0 - 2026-09-22
+
+## What changed
+
+- Reload the plugin the way ACT's own EQ2 parser does (#18)
+- Release 0.4.2.0 (#19)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.4.1.0 - 2026-09-22
 
 ## What changed
 
@@ -50,6 +59,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
