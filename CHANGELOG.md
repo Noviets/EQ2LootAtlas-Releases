@@ -1,4 +1,13 @@
-﻿# 0.5.3.1 - 2026-09-22
+﻿# 0.5.3.2 - 2026-09-22
+
+## What changed
+
+- Remove the spool button, which has been invisible since the day it was added (#31)
+- Release 0.5.3.2 (#32)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.5.3.1 - 2026-09-22
 
 ## What changed
 
@@ -105,6 +114,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
