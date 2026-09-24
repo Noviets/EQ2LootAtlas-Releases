@@ -1,4 +1,13 @@
-﻿# 0.5.3.2 - 2026-09-22
+﻿# 0.6.0.0 - 2026-09-25
+
+## What changed
+
+- Let a historical import be anonymous (#33)
+- Release 0.6.0.0 (#34)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.5.3.2 - 2026-09-22
 
 ## What changed
 
@@ -114,6 +123,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
