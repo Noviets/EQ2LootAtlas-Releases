@@ -1,4 +1,13 @@
-﻿# 0.6.0.0 - 2026-09-25
+﻿# 0.6.1.0 - 2026-09-26
+
+## What changed
+
+- Offer to import historical logs on first start, and guide new players to a key (#35)
+- Release 0.6.1.0 (#36)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.6.0.0 - 2026-09-25
 
 ## What changed
 
@@ -123,6 +132,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
