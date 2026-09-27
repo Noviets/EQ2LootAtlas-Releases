@@ -1,4 +1,13 @@
-﻿# 0.6.2.0 - 2026-09-26
+﻿# 0.6.3.0 - 2026-09-27
+
+## What changed
+
+- Read logs only from the Anashti Sul folder, and keep each line with its own log's character and zone (#39)
+- Release 0.6.3.0 (#40)
+
+Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
+# 0.6.2.0 - 2026-09-26
 
 ## What changed
 
@@ -141,6 +150,7 @@ Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructi
 - Stop a routine git warning from killing the release mid-publish
 
 Install by dropping `EQ2LootAtlas.dll` into ACT's plugin folder. Setup instructions are at <https://lootatlas.noviets.com/setup>.
+
 
 
 
